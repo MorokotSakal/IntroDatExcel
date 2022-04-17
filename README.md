@@ -1,4 +1,5 @@
 # Introduction to Data Analytics Using Excel
-Contain excel files of Introduction to Data Analytics With Excel by RICE University.
+This repo contains excel files of the course "Introduction to Data Analytics With Excel" by the RICE University.
 
-To register for the course: https://www.coursera.org/learn/excel-data-analysis
+To register for the course, use the following link: https://www.coursera.org/learn/excel-data-analysis
+
